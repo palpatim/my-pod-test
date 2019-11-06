@@ -1,12 +1,12 @@
 Pod::Spec.new do |s|
 
-  s.name         = 'MyPodTest'
+  s.name         = 'AmplifyFramework'
   s.version      = '0.0.1'
-  s.summary      = 'MyPodTest'
+  s.summary      = 'AmplifyFramework'
 
-  s.description  = 'My test of pod publishing of a private repo'
+  s.description  = 'Test of pod publishing'
 
-  s.homepage     = 'https://aws.amazon.com/amplify/'
+  s.homepage     = 'https://github.com/palpatim/my-pod-test/'
   s.license      = 'Apache License, Version 2.0'
   s.author       = { 'Tim Schmelter' => 'palpatim@palpatim.com' }
   s.platform     = :ios, '11.0'
